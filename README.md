@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar0i0&label=Profile%20views&color=0e75b6&style=flat" alt="azhar0i0" /> </p>
 
-- 👨‍💻 All of my projects are available at [azharali.vercel.app](azharali.vercel.app)
+- 👨‍💻 All of my projects are available at [AzharAli](azharali.site)
 
 - 💬 Ask me about **React+vite.jsx, Node.jsx, Native.js**
 
